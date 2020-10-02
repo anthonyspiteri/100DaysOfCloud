@@ -16,12 +16,13 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Anthony's Cloud Journey
 
-Hey there, Anthony Spiteri here, Senior Global Technologist at Veeam Software and host of [Great Things with Great Tech Podcast](https://gtwgt.com). For me, Cloud has defined my career from the very start... having started in the Application and Web Hosting Provider world, I’ve been working on "Cloud" platforms and services for almost 20 years now. We didn't call it cloud at first, but the web hosting industry was always there to supplement what was to become cloud. Virtualization accelerated cloud and I ended up working on some of the most innovative Cloud Service Provider platforms and I was able to work closely with lots of great software and hardware vendors. I love technology and I love this industry. It's allowed me to be where I am today working for Veeam and being able to touch multiple technologies.
+Hey there, Anthony Spiteri here, Senior Global Technologist at Veeam Software and host of [Great Things with Great Tech Podcast](https://gtwgt.com). For me, Cloud has defined my career from the very start... having started in the Application and Web Hosting Provider world, I’ve been working on "Cloud" platforms and services for almost 20 years now. We didn't call it cloud at first, but the web hosting industry was always there to supplement what was to become cloud. Virtualization accelerated cloud and I ended up achitecting and managing some of the most innovative Cloud Service Provider platforms and I was able to work closely with lots of great software and hardware vendors. I love technology and I love this industry. It's allowed me to be where I am today working for Veeam and being able to touch multiple technologies.
 
-[✍️ Tell us why you started this challenge]
+I started this challenge mainly due to seeing my good friend and workmate [Michael Cade](https://github.com/MichaelCade/100DaysOfCloud) embarking on it. Much like his reasons for it, I think I am at a point where I need a forced routine and schedule to ensure I continue to stay in touch with what is happening in the industry. There is so much content out there that can be absorbed. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this, I would like to strenghten my already solid understand of cloud and service provider technologies and branch out a little bit from my comfort zone to understand modern cloud native platforms and tooling as well as what is trending in service provider and hyper-scaler land.
 
+- https://anthonspiteri.net
 - https://twitter.com/anthonyspiteri
 - https://www.linkedin.com/in/anthonyspiteri
 
