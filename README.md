@@ -16,7 +16,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Anthony's Cloud Journey
 
-[✍️ Introduce yourself]
+Hey there, Anthony Spiteri here, Senior Global Technologist at Veeam Software and host of [Great Things with Great Tech Podcast] (https://gtwgt.com). For me, Cloud has defined my career from the very start... having started in the Application and Web Hosting Provider world, I’ve been working on "Cloud" platforms and services for almost 20 years now. We didn't call it cloud at first, but the web hosting industry was always there to supplement what was to become cloud. Virtualization accelerated cloud and I ended up working on some of the most innovative Cloud Service Provider platforms and I was able to work closely with lots of great software and hardware vendors. I love technology and I love this industry. It's allowed me to be where I am today working for Veeam and being able to touch multiple technologies.
 
 [✍️ Tell us why you started this challenge]
 
