@@ -22,8 +22,8 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- @anthonyspiteri (https://twitter.com/anthonyspiteri)
-- Link to your LinkedIn(https://www.linkedin.com/in/anthonyspiteri)
+- https://twitter.com/anthonyspiteri
+- https://www.linkedin.com/in/anthonyspiteri
 
 ## Stepping out the door
 
