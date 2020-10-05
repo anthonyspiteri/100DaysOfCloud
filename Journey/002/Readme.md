@@ -1,5 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![VMworld 2020](https://blogs.vmware.com/vmworld/files/2020/06/vmworld2020-off2-pivotal-720x330_350x300-300x138.png)
 
 # Catching up on VMworld 2020 Cloud Related NEws
 
