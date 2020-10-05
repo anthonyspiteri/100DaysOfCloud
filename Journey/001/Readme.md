@@ -5,9 +5,6 @@
 - git clone https://github.com/anthonyspiteri/100DaysOfCloud/ 100DaysofCloud
 
 - Today is Friday... I have setup this up now and I'll kick things off from Monday.
--  2
--  3
-
 
 ## Social Proof
 
