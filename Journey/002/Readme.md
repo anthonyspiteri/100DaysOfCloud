@@ -4,8 +4,6 @@
 
 ## Cloud Research
 
-- git clone https://github.com/anthonyspiteri/100DaysOfCloud/ 100DaysofCloud
-
 - VMworld 2020 was last week and virtual, so I spent today catching up on some of the headline news from VMware on their releases and announcements as well as catching up on all the competative cloud news that relates to my work with Veeam.
 
 ## Some Links
