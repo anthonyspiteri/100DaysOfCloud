@@ -1,6 +1,6 @@
 ![VMworld 2020](https://blogs.vmware.com/vmworld/files/2020/06/vmworld2020-off2-pivotal-720x330_350x300-300x138.png)
 
-# Catching up on VMworld 2020 Cloud Related NEws
+# Catching up on VMworld 2020 Cloud Related News
 
 ## Cloud Research
 
@@ -15,7 +15,7 @@
 - http://www.yellow-bricks.com/2020/09/30/announcing-vmware-cloud-disaster-recovery/
 - https://blogs.vmware.com/cloudprovider/2020/09/vcd10-2-html.html
 - https://www.crn.com/slide-shows/virtualization/vmworld-2020-s-15-biggest-product-announcements/2?itc=refresh
-- 
+- https://my.vmworld.com/widget/vmware/vmworld2020/catalog 
 
 ## Social Proof
 
