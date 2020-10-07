@@ -1,4 +1,4 @@
-![Veeam + Kasten](https://blogs.vmware.com/vmworld/files/2020/06/vmworld2020-off2-pivotal-720x330_350x300-300x138.png)
+![Veeam + Kasten](https://i1.wp.com/anthonyspiteri.net/wp-content/uploads/2020/10/Veeam_Kasten_1.png?resize=632%2C216&ssl=1)
 
 # Reinforcing some Kubernetes stuff and Kasten
 
