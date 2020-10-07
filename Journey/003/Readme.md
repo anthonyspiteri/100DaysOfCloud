@@ -18,4 +18,4 @@
 
 ## Social Proof
 
-[link](https://twitter.com/anthonyspiteri/status/1313028040683708416)
+[link](https://twitter.com/anthonyspiteri/status/1313875647354134528?s=20)
